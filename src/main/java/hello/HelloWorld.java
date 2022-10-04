@@ -1,7 +1,11 @@
 package hello;
 
-public class HelloWorld {
-    public static String getMessage() {
+public class HelloWorld
+{
+    public static String getMessage()
+    {
         return "Hello, World!";
     }
 }
+
+// end of file
